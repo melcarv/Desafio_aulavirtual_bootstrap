@@ -1,0 +1,58 @@
+body {
+    background-image: url("../imagem/sp.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.landpg {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.form-group {
+    margin: 0px 0px 14px;
+}
+
+.fundoform {
+    background-color: #fffffff5;
+    padding: 25px 40px 15px;
+    width: 30%;
+}
+
+.tituloform {
+    color: #212121;
+    text-align: center;
+    font-size: 25px;
+}
+
+.texto {
+    text-align: center;
+    color:#212121;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.btn {
+        border-radius: 0px;
+        margin-top: 15px;
+}
+
+.titulopg {
+    width: 35%;
+    padding-left: 50px;
+}
+
+.titulo {
+    text-align: center;
+    color: #fff;
+    font-size: 90px;
+    font-family: 'Abril Fatface', cursive;
+}
